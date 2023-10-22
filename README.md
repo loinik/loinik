@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @loinik
-- 👀 I’m interested in backend
-- 🌱 I’m currently learning PHP, JS, MySQL
+- 👀 I’m interested in web development
+- 🌱 I’m currently using PHP, React, JavaScript, and MySQL
